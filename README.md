@@ -26,7 +26,5 @@
     📪 More about me
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@newdana01">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:newdana01@gmail.com">
-  </p>
-</div>
+    <a href="https://velog.io/@newdana01"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@newdana01"></a>
+    <a href="mailto:newdana01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:newdana01@gmail.com"></a>
