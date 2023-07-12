@@ -5,10 +5,11 @@
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@newdana01">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:newdana01@gmail.com">
   </p> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=newdana01&show_icons=true"/> 
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=newdana01&show_icons=true"/>  -->
 
   <p>✨ Tech Stack</p>
   <p>
+    <img src="https://img.shields.io/badge/java-FF0000?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
