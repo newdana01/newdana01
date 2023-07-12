@@ -9,7 +9,7 @@
 
   <p>✨ Tech Stack</p>
   <p>
-    <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
